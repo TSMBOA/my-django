@@ -1,2 +1,2 @@
-web: gunicorn gettingstarted.wsgi
+web: gunicorn BIGBRANDS_AFRICA.wsgi
 web:
