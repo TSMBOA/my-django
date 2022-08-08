@@ -1,3 +1,34 @@
 
 db.sqlite3
 venv
+
+
+# python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+#database
+db.sqlite3
+
+#Static folder at project root
+/static/
+
+#windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE>BIN/
+
+#editor
+.atom
+.history/
+*.code-workspace
+
+/NiceAdmin/
+/media/
